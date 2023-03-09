@@ -4,8 +4,5 @@
   "name": "Memory Cards",
   "action": {
     "default_popup": "index.html"
-  },
-  "chrome_url_overrides": {
-    "newtab": "index.html"
   }
 }
